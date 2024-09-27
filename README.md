@@ -1,5 +1,5 @@
 ## Hi there 👋💻🚀!
-![banner-github](https://github.com/user-attachments/assets/ef9b3641-a5f6-405a-813d-2f74418bc73b)
+![me](https://github.com/user-attachments/assets/4ba1b222-5c1a-4f8a-9f9d-b4bbb62729f8)
 
 ```js
 const carlosfrontend = {
