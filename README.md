@@ -14,6 +14,10 @@ You can find me :mag_right::earth_africa::
 
 - [X Twitter](https://x.com/CarlosFrontEnd)
 - [Linkedin](https://www.linkedin.com/in/carlosfrontend)
+
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosfrontend&show_icons=true&theme=dracula&hide=contribs,prs)
+
 <!--
 **carlosfrontend/carlosfrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
