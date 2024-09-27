@@ -6,7 +6,7 @@ const carlosfrontend = {
     pronouns: "he" | "him",
     code: ["Javascript", "HTML", "CSS"],
     tools: ["React", "Webpack","Git", "Vite", "VsCode", "EsLint","Jest"],
-    challenge: "I'm doing TheOdinProject challenge focusing on reacting right now"
+    challenge: "I'm doing TheOdinProject challenge focusing on React right now"
 }
 ```
 
