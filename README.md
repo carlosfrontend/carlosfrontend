@@ -40,8 +40,6 @@ const carlosfrontend = {
 </a>
 <img width="20">
  <a href="https://x.com/CarlosFrontEnd" style="text-decoration:none"><i class="devicon-twitter-original"  style="font-size:1.7rem;;color:white;"></i></a>
-
-
 </div>
 
 ## 🔨 Languages and tools:
