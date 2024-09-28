@@ -36,10 +36,10 @@ const carlosfrontend = {
 
 <div style="display:flex;align-items:center">
 <img width="20">
- <a href="https://www.linkedin.com/in/carlosfrontend" style="text-decoration:none"><i class="devicon-linkedin-plain colored" style="font-size:40px;"></i>
+ <a href="https://www.linkedin.com/in/carlosfrontend" style="text-decoration:none"><i class="devicon-linkedin-plain colored" style="font-size:2rem;"></i>
 </a>
 <img width="20">
- <a href="https://x.com/CarlosFrontEnd" style="text-decoration:none"><i class="devicon-twitter-original"  style="font-size:40px;color:white;"></i></a>
+ <a href="https://x.com/CarlosFrontEnd" style="text-decoration:none"><i class="devicon-twitter-original"  style="font-size:1.7rem;;color:white;"></i></a>
 
 
 </div>
