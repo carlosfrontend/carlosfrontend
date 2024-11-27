@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact: I have been following the study plan for more than a year and uploading my progress to GitHub and Twitter.
 
-![me](https://github.com/user-attachments/assets/4ba1b222-5c1a-4f8a-9f9d-b4bbb62729f8)
 ###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=carlosfrontend.carlosfrontend&right_color=orange&&left_color=dodgerblue&left_text=Profile%20Views"  />
