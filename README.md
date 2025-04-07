@@ -2,7 +2,6 @@
 
 ## Hi 👋, I'm Carlos :thought_balloon:!
 
-
 - 🌱 I’m currently learning on &nbsp;<img  src="https://raw.githubusercontent.com/TheOdinProject/theodinproject/refs/heads/main/public/favicon-128.png" height="20" width="20"/>&nbsp;[The Odin Project](https://www.theodinproject.com)
 
 - 👯 Always open to collaborate on new projects.
@@ -15,23 +14,21 @@
 
 # I'm very glad to see you here :dizzy:
 
-
 ## :blond_haired_person:About me:
 
 ```js
 const carlosfrontend = {
-    pronouns: "he" | "him",
-    code: ["Javascript", "HTML", "CSS"],
-    tools: ["React", "Webpack","Git", "Vite", "VsCode", "EsLint","Jest"],
-    challenge: "I'm doing TheOdinProject challenge",
-    someHobbies: ["travel", "movies", "hiking"]
-}
+  pronouns: 'he' | 'him',
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: ['React', 'Webpack', 'Git', 'Vite', 'VsCode', 'EsLint', 'Jest'],
+  challenge: "I'm doing TheOdinProject challenge",
+  someHobbies: ['travel', 'movies', 'hiking']
+};
 ```
 
 ###
 
 ## :mag_right: You can find me :
-
 
 <div align="left">
  <a href="https://www.linkedin.com/in/carlosfrontend"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
@@ -39,7 +36,9 @@ const carlosfrontend = {
 </div>
 
 ## 🔨 Languages and tools:
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -66,10 +65,11 @@ const carlosfrontend = {
 
 ###
 
-<!-- <div align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosfrontend&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div> -->
+</div>
 
 ###
+
 <div align="left"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosfrontend&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
