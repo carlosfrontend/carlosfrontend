@@ -1,82 +1,75 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Carlos%20Pulido%20%7C%20Frontend%20Developer&fontSize=28&fontColor=fff&animation=fadeIn" alt="banner"/>
-</p>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
----
+## Hi 👋, I'm Carlos :thought_balloon:!
 
-<div align="right">
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/🌐%20English-Version-blue?style=flat-square" alt="English version" />
-  </a>
-</div>
+- 🌱 I’m currently learning on &nbsp;<img  src="https://raw.githubusercontent.com/TheOdinProject/theodinproject/refs/heads/main/public/favicon-128.png" height="20" width="20"/>&nbsp;[The Odin Project](https://www.theodinproject.com)
 
-<div align="center">
+- 👯 Always open to collaborate on new projects.
 
-### 👋 Hola, soy Carlos Pulido
+- ⚡ Fun fact: I have been following the study plan for more than a year and uploading my progress to GitHub and Twitter.
 
-🚀 **Desarrollador Frontend Junior**  
-⚛️ Aprendiendo React y Custom Hooks  
-🟦 Empezando con TypeScript y testing con Vitest  
-🎨 Apasionado por UX, accesibilidad y diseño limpio  
-🌍 Madrid, España
+###
 
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=carlosfrontend.carlosfrontend&right_color=orange&&left_color=dodgerblue&left_text=Profile%20Views"  />
 
----
+# I'm very glad to see you here :dizzy:
 
-### 🛠 Tech Stack
+## :blond_haired_person: About me:
 
-<div align="left">
+```js
+const carlosfrontend = {
+  pronouns: 'he' | 'him',
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: ['React', 'Webpack', 'Git', 'Vite', 'VsCode', 'EsLint', 'Jest'],
+  challenge: "I'm doing TheOdinProject challenge",
+  someHobbies: ['travel', 'movies', 'hiking']
+};
+```
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img alt="CSS Modules" src="https://img.shields.io/badge/CSS_Modules-0D99FF?style=for-the-badge&logo=cssmodules&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-<img alt="Vitest" src="https://img.shields.io/badge/Vitest-4BC51D?style=for-the-badge&logo=vitest&logoColor=white" />
+###
 
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
-
----
-
-### 📌 Sobre mí
-
-Soy un desarrollador frontend junior motivado y en constante aprendizaje.  
-Trabajo con React y estoy mejorando en custom hooks, TypeScript y testing con Vitest.  
-Me encanta crear interfaces accesibles y limpias, y me esfuerzo por mejorar la experiencia del usuario.
-
----
-
-### 🌱 Skills Clave
-
-- React & Custom Hooks (en aprendizaje)
-- TypeScript para mejorar la calidad del código
-- Testing con Vitest básico
-- Astro para sitios estáticos y rendimiento
-- Tailwind CSS para diseño modular y rápido
-- CSS Modules para estilos encapsulados
-- Webpack para bundling y optimización
-- HTML semántico para accesibilidad y SEO
-- Uso nativo de Fetch API para consumir REST APIs
-- Accesibilidad web y diseño responsive
-- Git & colaboración en equipo
-
----
-
-### 📫 Contacto
+## :mag_right: You can find me :
 
 <div align="left">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-carlospulido.netlify.app-blue?style=for-the-badge)](https://carlospulido.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosfrontend-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlosfrontend/)  
-[![GitHub](https://img.shields.io/badge/GitHub-carlosfrontend-black?style=for-the-badge&logo=github)](https://github.com/carlosfrontend)  
-[![X](https://img.shields.io/badge/X-CarlosFrontend-black?style=for-the-badge&logo=twitter)](https://twitter.com/CarlosFrontend)
-
+ <a href="https://www.linkedin.com/in/carlosfrontend"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+ <a href="https://x.com/CarlosFrontEnd"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="52" height="40" alt="x logo"  /></a>
 </div>
+
+## 🔨 Languages and tools:
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosfrontend&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div> -->
+
+###
+
+<div align="left"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosfrontend&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
