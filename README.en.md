@@ -5,7 +5,7 @@
 ---
 
 <div align="right">
-  <a href="./README.md">
+  <a href="https://github.com/carlosfrontend">
     <img src="https://img.shields.io/badge/🌐%20Spanish-Version-blue?style=flat-square" alt="Spanish version" />
   </a>
 </div>
