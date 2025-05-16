@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Carlos%20Pulido%20%7C%20Frontend%20Developer&fontSize=28&fontColor=fff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Carlos%20Pulido%20%7C%20Frontend%20Engineer&fontSize=28&fontColor=fff&animation=fadeIn" alt="banner"/>
 </p>
 
 ---
 
 <div align="right">
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/🌐%20English-Version-blue?style=flat-square" alt="English version" />
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-Version-blue?style=flat-square" alt="Spanish version" />
   </a>
 </div>
 
 <div align="center">
 
-### 👋 Hola, soy Carlos Pulido
+### 👋 Hi, I'm Carlos Pulido
 
-🚀 **Desarrollador Frontend Junior**  
-⚛️ Aprendiendo React y Custom Hooks  
-🟦 Empezando con TypeScript y testing con Vitest  
-🎨 Apasionado por UX, accesibilidad y diseño limpio  
-🌍 Madrid, España
+🚀 **Frontend Engineer**  
+⚛️ Developing with React and Custom Hooks  
+🟦 Using TypeScript and testing with Vitest  
+🎨 Passionate about UX, accessibility and clean design  
+🌍 Madrid, Spain
 
 </div>
 
@@ -46,31 +46,31 @@
 
 ---
 
-### 📌 Sobre mí
+### 📌 About me
 
-Soy un desarrollador frontend junior motivado y en constante aprendizaje.  
-Trabajo con React y estoy mejorando en custom hooks, TypeScript y testing con Vitest.  
-Me encanta crear interfaces accesibles y limpias, y me esfuerzo por mejorar la experiencia del usuario.
-
----
-
-### 🌱 Skills Clave
-
-- React & Custom Hooks (en aprendizaje)
-- TypeScript para mejorar la calidad del código
-- Testing con Vitest básico
-- Astro para sitios estáticos y rendimiento
-- Tailwind CSS para diseño modular y rápido
-- CSS Modules para estilos encapsulados
-- Webpack para bundling y optimización
-- HTML semántico para accesibilidad y SEO
-- Uso nativo de Fetch API para consumir REST APIs
-- Accesibilidad web y diseño responsive
-- Git & colaboración en equipo
+Frontend developer focused on building clean, accessible, and efficient interfaces.  
+I work with React and custom hooks, use TypeScript to improve code quality and employ Vitest for testing.  
+I'm passionate about improving user experience and continuous learning.
 
 ---
 
-### 📫 Contacto
+### 🌱 Key Skills
+
+- React & Custom Hooks
+- TypeScript for secure and scalable development
+- Testing with Vitest for code quality
+- Astro for static sites and performance
+- Tailwind CSS for modular and fast styling
+- CSS Modules for scoped styles
+- Webpack for bundling and optimization
+- Semantic HTML for accessibility and SEO
+- Native Fetch API for consuming REST APIs
+- Web accessibility and responsive design
+- Git & collaborative workflows
+
+---
+
+### 📫 Contact
 
 <div align="left">
 
