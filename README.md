@@ -14,7 +14,7 @@
 
 # I'm very glad to see you here :dizzy:
 
-## :blond_haired_person:About me:
+## :blond_haired_person: About me:
 
 ```js
 const carlosfrontend = {
